@@ -1,0 +1,20 @@
+import java.util.ArrayList;
+import java.util.List;
+public class test{
+public static void main(String args[])
+{
+int k=0;
+int i,j;
+ArrayList table[]=new ArrayList[10][10]
+table[0][0]=new ArrayList();
+for (i=0;i<=4;i++)
+{
+for (j=4;j<=j+4;j++)
+{
+k=k+1;
+table[i][j].add(k);
+}}
+
+}
+
+}
